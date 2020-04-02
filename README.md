@@ -1,0 +1,1 @@
+# middile-character-and-slicing
